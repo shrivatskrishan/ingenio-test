@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 - for run follow two step
 - npm install
 - npm run dev
-- run on http://127.0.0.1:5173/
+- run on local http://127.0.0.1:5173/
 - 
