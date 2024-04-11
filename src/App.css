@@ -18,6 +18,9 @@
     border-bottom: 1px solid #F0F0EE;
 
 }
+.top-div-of-adviser div:last-child {
+  border-bottom: none;
+}
 .image-name-top-div{
   display: flex;
 }
