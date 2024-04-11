@@ -1,0 +1,39 @@
+#root {
+  padding: 2rem;
+
+}
+
+.h2-div{
+    text-align: center;
+}
+.top-div-of-adviser{
+  display: flex;
+  flex-direction: column;
+  padding: 1rem 7.75rem;
+}
+.adviser-card-div{
+  display: flex;
+    justify-content: space-between;
+    padding: 12px 0px;
+    border-bottom: 1px solid #F0F0EE;
+
+}
+.image-name-top-div{
+  display: flex;
+}
+.image-div{
+  border-radius: 50%;
+  height: 120px;
+  width: 120px;
+}
+.name-div{
+  color:#076D64
+}
+.amount-div{
+  font-size: 14px;
+    font-weight: 600;
+    padding-bottom: 5px;
+}
+.button-div{
+ color: #ffffff;   
+}
